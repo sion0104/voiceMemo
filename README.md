@@ -19,4 +19,4 @@ MVVM(Model-View-ViewModel) 패턴은 애플리케이션의 구성 요소를 다�
 
 1. 이 저장소를 클론합니다.
    ```bash
-   git clone <저장소 URL>
+   git clone https://github.com/sion0104/voiceMemo.git
